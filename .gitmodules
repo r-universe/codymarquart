@@ -11,3 +11,6 @@
 [submodule "rhoR"]
 	path = rhoR
 	url = https://github.com/cran/rhoR
+[submodule "tma"]
+	path = tma
+	url = https://github.com/cran/tma
