@@ -5,6 +5,9 @@
 [submodule "ncodeR"]
 	path = ncodeR
 	url = https://github.com/cran/ncodeR
+[submodule "rENA"]
+	path = rENA
+	url = https://github.com/cran/rENA
 [submodule "rhoR"]
 	path = rhoR
 	url = https://github.com/cran/rhoR
